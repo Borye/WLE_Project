@@ -1,0 +1,12 @@
+AppliedPredictiveModeling
+base
+caret
+gbm
+ggplot2
+knitr
+lattice
+plyr
+randomForest
+rattle
+rpart
+survival
